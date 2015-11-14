@@ -1,5 +1,5 @@
 {
-  "name": "PACKAGE NAME",
+  "name": "PACKAGENAME",
   "version": "1.0.0",
   "description": "PACKAGE DESCRIPTION",
   "main": "index.js",
@@ -9,8 +9,6 @@
   "author": "PACKAGE AUTHOR",
   "license": "PACKAGE LICENSE",
   "dependencies": {
-    "node-neo4j": "^2.0.3",
-    "request-promise": "^1.0.2"
   },
   "devDependencies": {
     "chai": "^3.4.1",
